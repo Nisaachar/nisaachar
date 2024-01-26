@@ -1,5 +1,5 @@
 ### Profile: 
-I am an experienced data scientist who has worked in the domain of Computer Vision with TCS for close to two years; being responsible for working with Azure and GCP to build a credible OCR engine. Also, as an intern I’ve used MySQL skillset to build the GUI of a deployed database. I enjoy applying my quick learning ability to build solutions which affects people and their experience.
+I am an experienced data scientist who has worked in the domain of Computer Vision with TCS for close to two years; being responsible for working with Azure and GCP to build a credible OCR engine. Also, as an intern I’ve used SQL skillset to build the GUI of a deployed database. I enjoy applying my quick learning ability to build solutions which affects people and their experience.
 
 #### Work Experience:
 
