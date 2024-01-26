@@ -4,17 +4,20 @@ I am an experienced data scientist who has worked in the domain of Computer Visi
 #### Work Experience:
 
 ### Software Engineer | Tata Consultancy Services | Apr 2021 - Dec 2022
-/ Project Role: Data Scientist
+#### / Project Role: Data Scientist 
+
 Helped build an Optical Character Recognition solution to extract specific format codes from sheets of engineering drawings.
 Analyzed the output to understand the shortcomings of Azure OCR engine.
 Worked with regular expressions and modified the detection logic to increase accuracy from 87% to 91%
 
-/ Project Role: Computer Vision Analyst
+#### / Project Role: Computer Vision Analyst
+
 Responsible for building a Proof of Concept (POC) for a computer vision project.
 Bi-weekly meetings with clients to explain both data science and computer vision solutions for the user stories
 The clients needed a solution for a wastewater treatment plant and so learned about the domain to better tailor the solution.
 
-/ Project Role: Computer Vision Developer
+#### / Project Role: Computer Vision Developer
+
 Used Google Cloud Platform (GCP) in the domain of delivery warehousing; extracting meaningful information from the packages.
 Was accountable for integrating all the different working pieces of code by communicating with respective teams working on their parts of the solution.
 Worked with teammates to containerize the solution.
