@@ -3,7 +3,7 @@ As a data science professional, I have leveraged my skills in OCR and computer v
 
 Currently, I am pursuing my MSCS at Purdue University, where I am expanding my knowledge and interest in data analysis. I have a keen eye for finding patterns and insights from data, and I enjoy applying my quick learning ability to build solutions that affect people and their experiences. I have also used my SQL skillset to develop a graphical user interface for a deployed database, providing various use cases such as sorting, joining tables, converting into CSV files, and downloading. I am open to full-time data science roles where I can utilize my expertise and passion for data.
 
-#### Work Experience:
+### Work Experience:
 
 ### Software Engineer | Tata Consultancy Services | Apr 2021 - Dec 2022
 #### / Project Role: Data Scientist 
