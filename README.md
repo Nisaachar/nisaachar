@@ -10,7 +10,7 @@ Currently, I am pursuing my MSCS at Purdue University, where I am expanding my k
 
 ·	Developed and optimized an Optical Character Recognition (OCR) solution using Microsoft Azure to extract specific format codes from engineering drawings.
 ·	Analyzed OCR output to identify shortcomings within the engine and devised strategies for improvement.
-·	Implemented modifications to detection logic using regular expressions, resulting in a substantial accuracy enhancement from 87% to 91%.
+·	Implemented modifications to detection logic using regular expressions, resulting in a substantial accuracy enhancement from 83% to 91%.
 
 
 #### / Project Role: Computer Vision Analyst
