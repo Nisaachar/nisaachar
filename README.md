@@ -5,7 +5,7 @@ Currently, I am pursuing my MSCS at Purdue University, where I am expanding my k
 
 ### Work Experience:
 
-### Software Engineer | Tata Consultancy Services | Apr 2021 - Dec 2022
+### Data Scientist | Tata Consultancy Services | Apr 2021 - Dec 2022
 #### / Project Role: Data Scientist 
 
 ·	Developed and optimized an Optical Character Recognition (OCR) solution using Microsoft Azure to extract specific format codes from engineering drawings.
@@ -28,8 +28,8 @@ Collaborated with cross-functional teams to seamlessly integrate models into pro
 
 
 
-### Intern | Apne Apps | Aug 2018 - Oct 2018
-/ PHP Intern
+### Backend Developer | Apne Apps | Feb 2018 - Nov 2018
+
 
 Developed a graphical user interface (GUI) for the tables stored in the database, providing various use cases like sorting, joining tables, converting into CSV files, and downloading.
 Wrote various SQL queries to provide the user with various functionality while sorting the data.
