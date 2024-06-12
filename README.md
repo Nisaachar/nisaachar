@@ -5,7 +5,7 @@ Currently, I am pursuing my MSCS at Purdue University, where I am expanding my k
 
 ### Work Experience:
 
-### Data Scientist | Tata Consultancy Services | Apr 2021 - Dec 2022
+### Data Scientist | Tata Consultancy Services | Dec 2020 - Dec 2022
 #### / Project Role: Data Scientist 
 
 ·	Developed and optimized an Optical Character Recognition (OCR) solution using Microsoft Azure to extract specific format codes from engineering drawings.
