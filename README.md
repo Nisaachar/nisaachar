@@ -9,9 +9,13 @@ Currently, I am pursuing my MSCS at Purdue University, where I am expanding my k
 
 
 o	Developed and optimized an Optical Character Recognition (OCR) solution using Microsoft Azure, extracting specific format codes from engineering drawings.
+
 o	Actively analyzed OCR output to identify shortcomings within the engine and devised strategies for improvement, utilizing regular expression to increase accuracy from 83% to 91%.
+
 o	Led building a Proof of Concept (POC), conducting bi-weekly meetings with globally based clients to communicate Data Science and Computer Vision solutions tailored to user stories.
+
 o	Responsible for leveraging Google Cloud Platform (GCP) in the delivery warehousing domain to extract valuable insights from stickers of packages. Trained deep learning YOLO model on custom dataset to achieve accuracy over 95%.	
+
 o	Collaborating with cross-functional teams to seamlessly integrate models into production. Responsible for containerizing the solution, ensuring scalability and efficiency in deployment.
 
 
