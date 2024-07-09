@@ -23,12 +23,16 @@ o	Collaborating with cross-functional teams to seamlessly integrate models into 
 
 
 o	Designing and implementing dynamic dashboard to display Key Performance Indicators (KPIs) of the start-up, providing real-time insights and visualizations.
+
 o	Exceeded existing benchmark by optimizing SQL queries resulting in 55% reduction in load time.
+
 o	Responsible for creating graphical user interface (GUI) for database, offering versatile features including sorting, table joining, data conversion into CSV files, and seamless downloading capabilities. Helped user to save time by 70% or greater
+
 
 ### SOFTWARE ENGINEER | TECHNOSIS | MAY 2017 - SEP 2017
 
 o	Developed a responsive full stack e-commerce website, featuring secure user authentication, personalized shopping carts, and dynamic admin product management.
+
 o	Collaborated and researched with UI team to enhance user engagement by 30%.
 
 
