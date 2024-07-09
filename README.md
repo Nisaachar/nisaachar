@@ -5,34 +5,28 @@ Currently, I am pursuing my MSCS at Purdue University, where I am expanding my k
 
 ### Work Experience:
 
-### Data Scientist | Tata Consultancy Services | Dec 2020 - Dec 2022
-#### / Project Role: Data Scientist 
-
-·	Developed and optimized an Optical Character Recognition (OCR) solution using Microsoft Azure to extract specific format codes from engineering drawings.
-·	Analyzed OCR output to identify shortcomings within the engine and devised strategies for improvement.
-·	Implemented modifications to detection logic using regular expressions, resulting in a substantial accuracy enhancement from 83% to 91%.
+### DATA SCIENTIST | TCS | Apr 2020 - Dec 2022
 
 
-#### / Project Role: Computer Vision Analyst
-
-·	Contributed to the development of a Proof of Concept (POC) for a computer vision project, demonstrating initiative and technical expertise.
-·	Conducted bi-weekly client meetings to effectively communicate Data Science and Computer Vision solutions tailored to user stories, ensuring clear understanding and alignment with client objectives.
-·	Proactively immersed myself in the domain of wastewater treatment plants to gain deeper insights and enhance the relevance and effectiveness of the proposed solution.
-
-#### / Project Role: Computer Vision Developer
-
-·	Leveraged Google Cloud Platform (GCP) in the delivery warehousing domain to extract valuable insights from stickers affixed to packages. 
-·	Employed deep learning techniques to accurately extract stickers from a large volume of packages stored on shelves.
-Collaborated with cross-functional teams to seamlessly integrate models into production. Played a pivotal role in containerizing the solution, ensuring scalability and efficiency in deployment.
+o	Developed and optimized an Optical Character Recognition (OCR) solution using Microsoft Azure, extracting specific format codes from engineering drawings.
+o	Actively analyzed OCR output to identify shortcomings within the engine and devised strategies for improvement, utilizing regular expression to increase accuracy from 83% to 91%.
+o	Led building a Proof of Concept (POC), conducting bi-weekly meetings with globally based clients to communicate Data Science and Computer Vision solutions tailored to user stories.
+o	Responsible for leveraging Google Cloud Platform (GCP) in the delivery warehousing domain to extract valuable insights from stickers of packages. Trained deep learning YOLO model on custom dataset to achieve accuracy over 95%.	
+o	Collaborating with cross-functional teams to seamlessly integrate models into production. Responsible for containerizing the solution, ensuring scalability and efficiency in deployment.
 
 
+### DATA ENGINEER | APNE APPS | MAY 2018 - OCT 2018
 
 
-### Backend Developer | Apne Apps | Feb 2018 - Nov 2018
+o	Designing and implementing dynamic dashboard to display Key Performance Indicators (KPIs) of the start-up, providing real-time insights and visualizations.
+o	Exceeded existing benchmark by optimizing SQL queries resulting in 55% reduction in load time.
+o	Responsible for creating graphical user interface (GUI) for database, offering versatile features including sorting, table joining, data conversion into CSV files, and seamless downloading capabilities. Helped user to save time by 70% or greater
 
+### SOFTWARE ENGINEER | TECHNOSIS | MAY 2017 - SEP 2017
 
-Developed a graphical user interface (GUI) for the tables stored in the database, providing various use cases like sorting, joining tables, converting into CSV files, and downloading.
-Wrote various SQL queries to provide the user with various functionality while sorting the data.
+o	Developed a responsive full stack e-commerce website, featuring secure user authentication, personalized shopping carts, and dynamic admin product management.
+o	Collaborated and researched with UI team to enhance user engagement by 30%.
+
 
 
 ### Academic Projects
