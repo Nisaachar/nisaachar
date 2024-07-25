@@ -19,7 +19,7 @@ o	Responsible for leveraging Google Cloud Platform (GCP) in the delivery warehou
 o	Collaborating with cross-functional teams to seamlessly integrate models into production. Responsible for containerizing the solution, ensuring scalability and efficiency in deployment.
 
 
-### DATA ENGINEER | APNE APPS | MAY 2018 - OCT 2018
+### DATA ENGINEER | APNE APPS | MAY 2019 - OCT 2019
 
 
 o	Designing and implementing dynamic dashboard to display Key Performance Indicators (KPIs) of the start-up, providing real-time insights and visualizations.
@@ -29,11 +29,11 @@ o	Exceeded existing benchmark by optimizing SQL queries resulting in 55% reducti
 o	Responsible for creating graphical user interface (GUI) for database, offering versatile features including sorting, table joining, data conversion into CSV files, and seamless downloading capabilities. Helped user to save time by 70% or greater
 
 
-### SOFTWARE ENGINEER | TECHNOSIS | MAY 2017 - SEP 2017
+### SOFTWARE ENGINEER | TECHNOSIS | MAY 2018 - SEP 2018
 
 o	Developed a responsive full stack e-commerce website, featuring secure user authentication, personalized shopping carts, and dynamic admin product management.
 
-o	Collaborated and researched with UI team to enhance user engagement by 30%.
+o	Collaborated with UI team to redesign the website interface, leading to a 30% increase in user engagement by incorporating user feedback. For better visibility, implemented SEO best practices.
 
 
 
