@@ -5,7 +5,7 @@ Currently, I am pursuing my MSCS at Purdue University, where I am expanding my k
 
 ### Work Experience:
 
-### DATA SCIENTIST | TCS | Apr 2020 - Dec 2022
+### MACHINE LEARNING ENGINEER | TCS | Apr 2020 - Dec 2022
 
 
 o	Developed and optimized an Optical Character Recognition (OCR) solution using Microsoft Azure, extracting specific format codes from engineering drawings.
@@ -19,7 +19,7 @@ o	Responsible for leveraging Google Cloud Platform (GCP) in the delivery warehou
 o	Collaborating with cross-functional teams to seamlessly integrate models into production. Responsible for containerizing the solution, ensuring scalability and efficiency in deployment.
 
 
-### DATA ENGINEER | APNE APPS | MAY 2019 - OCT 2019
+### SOFTWARE ENGINEER II | APNE APPS | MAY 2019 - OCT 2019
 
 
 o	Designing and implementing dynamic dashboard to display Key Performance Indicators (KPIs) of the start-up, providing real-time insights and visualizations.
